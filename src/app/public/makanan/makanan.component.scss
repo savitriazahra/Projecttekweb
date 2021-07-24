@@ -1,0 +1,41 @@
+.monde-card {
+    max-width: 200px;
+    margin-top: 50px;
+    margin-left: 60px;
+    font-family: sans-serif;
+  }
+.monde-card-title {
+    font-style: italic;
+    color: red;
+}
+.monde-card-content {
+    justify-content: center
+  }
+.monde-header-image {
+    background-image: url('/assets/logo.png');
+    background-size: 50px;
+}
+.monde-image {
+    background-position: center;
+}
+
+.roma-card {
+    max-width: 200px;
+    margin-top: 50px;
+    margin-left: 60px;
+    font-family: sans-serif;
+  }
+.roma-card-title {
+    font-style: italic;
+    color: red;
+}
+.roma-card-content {
+    justify-content: center
+  }
+.roma-header-image {
+    background-image: url('/assets/logo.png');
+    background-size: 50px;
+}
+.roma-image {
+    background-position: center;
+}

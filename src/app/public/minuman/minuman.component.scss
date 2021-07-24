@@ -1,0 +1,40 @@
+.kapalapi-card {
+    max-width: 240px;
+    margin-top: 50px;
+    margin-left: 60px;
+    font-family: sans-serif;
+  }
+.kopalapi-card-title {
+    font-style: italic;
+    color: red;
+}
+.kopalapi-card-content {
+    justify-content: center
+  }
+.kapalapi-header-image {
+    background-image: url('/assets/logo.png');
+    background-size: 50px;
+}
+.kapalapi-image {
+    background-position: center;
+}
+.coklat-card {
+  max-width: 240px;
+  margin-top: 50px;
+  margin-left: 60px;
+  font-family: sans-serif;
+}
+.coklat-card-title {
+  font-style: italic;
+  color: red;
+}
+.coklat-card-content {
+  justify-content: center
+}
+.coklat-header-image {
+  background-image: url('/assets/logo.png');
+  background-size: 50px;
+}
+.coklat-image {
+  background-position: center;
+}

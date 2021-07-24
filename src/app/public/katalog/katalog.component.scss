@@ -1,0 +1,44 @@
+.makanan-card {
+    max-width: 200px;
+    margin-top: 50px;
+    margin-left: 60px;
+  }
+.makanan-card-title {
+    font-style: italic;
+    color: red;
+}
+.makanan-header-image {
+    background-image: url('/assets/logo.png');
+    background-size: 50px;
+  }
+.minuman-card {
+    max-width: 200px;
+    margin-top: 50px;
+    margin-left: 60px;
+    vertical-align:middle;  
+}
+
+.dashboard-card-content {
+    justify-content: center
+  }
+
+.minuman-row{
+    display: flex;
+}
+
+.minuman-row input{
+    flex: 1;
+}   
+  .minuman-header-image {
+    background-image: url('/assets/logo.png');
+    background-size: 50px;
+  }
+  .perlengkapan-card {
+    max-width: 200px;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.perlengkapan-header-image {
+    background-image: url('/assets/logo.png');
+    background-size: 50px;
+  }
