@@ -1,22 +1,9 @@
-.example-card {
-    max-width: 250px;
-    margin-top: 20px;
-    width: 200%;
-    height: 200%;
-    box-sizing: content-box;
-    background-color: #e9eec0;
-  }
-  
-  .example-header-image {
-    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
-    background-size: cover;
-  }
-.user-card {
-    max-width: 250px;
+.admin-card {
+    max-width: 4000px;
     margin-top: 20px;
     margin-left: 50px 100px;
 }
-.user-header-image {
-    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+.admin-header-image {
+    background-image: url('/assets/logo.png');
     background-size: cover;
 }
