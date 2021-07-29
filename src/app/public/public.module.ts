@@ -11,6 +11,7 @@ import { PerlengkapanComponent } from './perlengkapan/perlengkapan.component';
 import { CartComponent } from './cart/cart.component';
 import { BantuanComponent } from './bantuan/bantuan.component';
 import { TentangkamiComponent } from './tentangkami/tentangkami.component';
+import { HubungiComponent } from './hubungi/hubungi.component';
 
 const routes: Routes = [
   {
@@ -49,6 +50,10 @@ const routes: Routes = [
         path:'tentangkami',
         component:TentangkamiComponent
       }, 
+      {
+        path:'hubungi',
+        component:HubungiComponent
+      }, 
     ]
   }
 ]
@@ -63,7 +68,8 @@ const routes: Routes = [
     PerlengkapanComponent,
     CartComponent,
     BantuanComponent,
-    TentangkamiComponent
+    TentangkamiComponent,
+    HubungiComponent
   ],
   imports: [
     CommonModule,

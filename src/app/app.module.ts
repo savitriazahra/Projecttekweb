@@ -10,13 +10,15 @@ import { MaterialDesign } from './material/material';
 import { ForgotComponent } from './auth/forgot/forgot.component';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
+import { HubungikamiComponent } from './hubungikami/hubungikami.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
     RegisterComponent,
-    ForgotComponent
+    ForgotComponent,
+    HubungikamiComponent
   ],
   imports: [
     BrowserModule,
