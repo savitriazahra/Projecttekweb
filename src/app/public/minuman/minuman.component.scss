@@ -38,3 +38,23 @@
 .coklat-image {
   background-position: center;
 }
+.goday-card {
+  max-width: 240px;
+  margin-top: 50px;
+  margin-left: 60px;
+  font-family: sans-serif;
+}
+.goday-card-title {
+  font-style: italic;
+  color: red;
+}
+.goday-card-content {
+  justify-content: center
+}
+.goday-header-image {
+  background-image: url('/assets/logo.png');
+  background-size: 50px;
+}
+.goday-image {
+  background-position: center;
+}
